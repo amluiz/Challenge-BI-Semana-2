@@ -13,8 +13,6 @@ A segunda empresa, Hermex, necessita analisar dados sobre a logística das entre
 | :rocket: URL         | [Relatório](https://app.powerbi.com/groups/me/reports/cf6877cc-c8d3-4241-9bf6-1ec0db315761/ReportSection?experience=power-bi)
 | :fire: Desafio     | [Desafio](https://www.alura.com.br/challenges/bi-3/semana-02-logistica-dados)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
